@@ -1,0 +1,5 @@
+This is a random file.
+dont wast time.
+eat food at time.
+walk up early in the morning.
+lets practice file handeling in python
